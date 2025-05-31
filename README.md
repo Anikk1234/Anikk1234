@@ -34,8 +34,8 @@ me = SoftwareEngineer()
     "backend": ["Django"]
   },
   "databases": ["MySQL", "MongoDB", "PostgreSQL"],
-  "tools": ["Git", "VS Code", "Eclipse", "Postman"],
-  "platforms": ["Windows", "Linux", "AWS"]
+  "tools": ["Git", "VS Code","CodeBlocks","Eclipse", "PyCharm","R Studio","TexMaker"],
+  "platforms": ["Windows", "Linux"]
 }
 ```
 
