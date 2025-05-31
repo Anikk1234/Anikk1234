@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anik Kirtania</h1>
 <h3 align="center">A passionate learner exploring the vast world of technology</h3>
 
-<p align="right">Last Updated: 2025-05-31 14:33:04 UTC</p>
 <!-- Banner GIF -->
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgzMWdpaHZpa2VhenIycWUwYTJmM3RueHlybHpiNHEzcmw4aDF4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="600" height="300"/>
