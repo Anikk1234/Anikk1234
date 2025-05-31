@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anikk1234</h1>
+<h1 align="center">Hi 👋, I'm Anik Kirtania</h1>
 <h3 align="center">A passionate learner exploring the vast world of technology</h3>
 
 <p align="right">Last Updated: 2025-05-31 14:33:04 UTC</p>
