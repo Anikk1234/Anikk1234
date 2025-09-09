@@ -21,7 +21,7 @@ me = SoftwareEngineer()
 ```
 
 ### 🎓 Education
-- Currently pursuing **Computer Science Engineering**
+- Currently pursuing **Computer Science and Engineering**
 - Fourth Semester Focus:
   - Design and Analysis of Algorithms
   - Database Management Systems
